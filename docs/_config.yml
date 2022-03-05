@@ -21,9 +21,8 @@
 title: Crossed Wires
 email: james@crossedwires.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Crossed Wires is all about technology and how we can make the most out of it in an ethical and fair way.
+  We create great content on YouTube and as a podcast, as well as providing creative services.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://crossedwiresmedia.github,io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: crossedwiresmg
