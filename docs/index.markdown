@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# This is the main page
+
+I'm just testing stuff here.
